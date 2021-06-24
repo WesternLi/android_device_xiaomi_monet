@@ -21,7 +21,7 @@ $(call inherit-product, device/xiaomi/monet/device.mk)
 $(call inherit-product, vendor/exthm/config/common.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := revengeos_monet
+PRODUCT_NAME := exthm_monet
 PRODUCT_DEVICE := monet
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi 10 Lite 5G
