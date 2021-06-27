@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_monet.mk
+    $(LOCAL_DIR)/exthm_monet.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_monet-user \
-    lineage_monet-userdebug \
-    lineage_monet-eng
+    exthm_monet-user \
+    exthm_monet-userdebug \
+    exthm_monet-eng
